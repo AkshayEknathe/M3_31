@@ -1,6 +1,6 @@
 # Remote Keyless Entry (RKE)
 
-## Tabele of Content
+## Table of Content
   1. [Introduction](#introduction)
   2. [High Level Reuqirements](#high-level-requirements)
   3. [Low Level Reuqirements](#low-level-requirements)
